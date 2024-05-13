@@ -1,7 +1,7 @@
-# soex-opdracht-1
+# SOEX Beroepsproduct
 Casusbeschrijving voor SOEX: Solution Exploration
 
-## Casusvoorstel Vakantieplan app
+## Casusvoorstel Vakantieplan app: Triptop
 
 Een applicatie waarmee een vakantietrip gepland kan worden. Een vakantietrip bestaat uit verschillende bouwstenen die aan elkaar gekoppeld kunnen worden. 
 
@@ -37,6 +37,6 @@ Voorbeeld:
 - Aanroepen van externe services en dat integreren met het domein is nieuw tov DoEx.
 - Is een ontwerpkeuze om de aanroep van externe services in de back-end te doen of in de front-end? Zou wel leuk zijn. 
   - Ik ben zelf geneigd om externe aanroepen die state kunnen veranderen sowieso in de back-end te doen, maar queries die alleen extra info opvragen misschien niet.
-- Ik zou het erg leuk vinden als studenten elkaars werk op ontwerpniveau zouden kunnen testen. Dus kunnen we studenten al "iets" meegeven waarmee ze kunnen kijken of een ontwerp uberhaupt kan werken? 
-  - Misschien kun je een aantal abstractere processen definieren die in het ontwerp moeten terugkomen. Bijvoorbeeld vertalen van een bericht van een externe service naar een aanroep van het domein. Wie doet dat?  
+- Ik zou het erg leuk vinden als studenten elkaars werk op ontwerpniveau zouden kunnen testen. Dus kunnen we studenten al "iets" meegeven waarmee ze kunnen kijken of een ontwerp überhaupt kan werken? 
+  - Misschien kun je een aantal abstractere processen definiëren die in het ontwerp moeten terugkomen. Bijvoorbeeld vertalen van een bericht van een externe service naar een aanroep van het domein. Wie doet dat?  
 
