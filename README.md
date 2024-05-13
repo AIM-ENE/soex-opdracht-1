@@ -39,4 +39,5 @@ Voorbeeld:
   - Ik ben zelf geneigd om externe aanroepen die state kunnen veranderen sowieso in de back-end te doen, maar queries die alleen extra info opvragen misschien niet.
 - Ik zou het erg leuk vinden als studenten elkaars werk op ontwerpniveau zouden kunnen testen. Dus kunnen we studenten al "iets" meegeven waarmee ze kunnen kijken of een ontwerp überhaupt kan werken? 
   - Misschien kun je een aantal abstractere processen definiëren die in het ontwerp moeten terugkomen. Bijvoorbeeld vertalen van een bericht van een externe service naar een aanroep van het domein. Wie doet dat?  
+- Studenten zetten hun individuele werk in een gezamenlijke repository maar eerst op een eigen feature-branch zodat de individuele bijdrage goed zichtbaar en ook het verschil tussen het individuele werk en het groepsresultaat.
 
