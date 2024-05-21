@@ -28,9 +28,8 @@ Voorbeeld:
 ### Opdracht (globaal)
 
 1. Ontwerp maken waarbij gebruik gemaakt moet worden van C4.  
-2. Domeinmodel maken 
-3. Design patterns bestuderen en toepassen bij 1 en 2. 
-4. PoCjes maken van communicatie met één, of twee externe services op basis van 1, 2 en 3.
+2. Design patterns bestuderen en toepassen bij 1 en 2. 
+3. PoCjes maken van communicatie met één, of twee externe services op basis van 1, 2 en 3.
 
 ### Opmerkingen
 
