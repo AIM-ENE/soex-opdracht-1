@@ -16,7 +16,19 @@ Toelichting op de context van de software inclusief Context Diagram:
 
 ## 1. Functional Overview
 
-Toelichting op de belangrijkste features en een overzicht van het domein met een domeinmodel.
+Om de belangrijkste features toe te lichten zijn er twee domain stories gemaakt en een overzicht van het domein in de vorm van een domeinmodel.
+
+### 1.1 Domain Story Reis Boeken (AS IS)
+
+![Domain Story Reis Boeken AS IS](../opdracht-diagrammen/reis-boeken-asis-coursegrained_2024-06-11.egn.svg)
+
+### 1.1 Domain Story Reis Boeken (TO BE)
+
+![Domain Story Reis Boeken TO BE](../opdracht-diagrammen/reis-boeken-tobe-coursegrained_2024-06-11.egn.svg)
+
+### 1.1 Domain Model
+
+![Domain Model](https://www.plantuml.com/plantuml/png/FOqn3i8m301tNW43Os9WP2eI7HZA7qnYDP4IEt8SmVEX2zFfTCDDtL1jrB8xP0vbH1fQzicizIk0ujklsT9uZKuQX8tOV90AjyVYvkSCNUZZf4N5aCoTeM9c-7lCk2hMIWntsTBnSbeaKl5jMqx4ySSl)
 
 ## 1. Quality Attributes
 
