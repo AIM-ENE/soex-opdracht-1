@@ -31,3 +31,7 @@ Voorbeeld:
 3. PoCjes maken van communicatie met één, of twee externe services.
 
 Essentieel in deze casus is dat je niet alleen bedenkt en visualiseert hoe de software eruit moet zien maar deze plaatjes ook voorziet van tekst waaruit keuzes blijken die je hebt gemaakt en het geheel (een software guidebook) voor een andere ontwikkelaar begrijpelijk is. Daarnaast werk je enkele keuzes uit in de vorm van werkende prototypes. 
+
+### Ontwerpvragen
+* Wie is verantwoordelijk voor het vertalen van een bericht van een externe service naar een aanroep van het domein?
+* Wie roept een specifieke externe service aan, gebeurt dat vanuit de front-end of vanuit de back-end? Welke redenen zijn er om voor de ene of de andere aanpak te kiezen?
