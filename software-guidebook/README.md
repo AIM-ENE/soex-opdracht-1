@@ -9,7 +9,7 @@ Dit software guidebook geeft een overzicht van de Triptop-applicatie. Het bevat 
 
 ## 1. Context
 
-Toelichting op de context van de software inclusief Context Diagram:
+Toelichting op de context van de software inclusief System Context Diagram:
 * Functionaliteit
 * Gebruikers
 * Externe systemen
