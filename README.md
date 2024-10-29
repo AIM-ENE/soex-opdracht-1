@@ -26,7 +26,7 @@ Voorbeeld:
 - Overnachtingen: de ene wordt via booking geregeld, de andere is in eigen beheer
 - Vervoer tussen de ene twee overnachtingen gaat met de auto (via google maps routeplannen), de andere gaat via de boot (via een veerdienst).
 
-### Opdracht in hoofdlijnen
+## Opdracht in hoofdlijnen
 
 1. Ontwerp maken waarbij gebruik gemaakt moet worden van C4.  
 2. Design patterns bestuderen en toepassen. 
@@ -34,7 +34,7 @@ Voorbeeld:
 
 Essentieel in deze casus is dat je niet alleen bedenkt en visualiseert hoe de software eruit moet zien maar deze plaatjes ook voorziet van tekst waaruit keuzes blijken die je hebt gemaakt en het geheel (een software guidebook) voor een andere ontwikkelaar begrijpelijk is. Daarnaast werk je enkele keuzes uit in de vorm van werkende prototypes. 
 
-### Ontwerpvragen
+## Ontwerpvragen
 
 Gegroepeerd op quality attribute uit het software guidebook:
 
