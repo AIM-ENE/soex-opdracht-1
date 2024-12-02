@@ -49,6 +49,7 @@ Beperkingen die op voorhand bekend zijn die invloed hebben op keuzes die wel of 
 Een overzicht van de belangrijkste architecturele en design principes die zijn toegepast in de software.
 
 ## 1. Software Architecture
+
 ###     1. Containers
 
 Container Diagram plus een Dynamic Diagram van een aantal scenario's.
@@ -60,6 +61,8 @@ Component Diagram plus een Dynamic Diagram van een aantal scenario's.
 ## 1. Design & Code
 
 Class Diagram plus een Sequence Diagram van een aantal scenario's.
+
+## 1. Architectural Decision Records
 
 ## 1. Deployment, Operation and Support
 
