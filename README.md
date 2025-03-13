@@ -12,7 +12,7 @@ Deze applicatie is geïnspireerd op [Ellipsis Travel](https://www.ellipsistravel
 - Reizigers kunnen zelf hun reis annuleren.
 - Reizigers kunnen zelf hun reis aanpassen.
 - Reizigers kunnen zelf hun reis betalen.
-- Reizigers kunnen hun reisstatus bewaren zonder dat ze een extra account hoeven aan te maken.
+- Reizigers kunnen hun reisstatus bewaren zonder dat ze een extra account hoeven aan te maken, hiervoor is een centrale _identity provider_ beschikbaar waar je met je Google, Microsoft, AirBnb etc. account op kunt inloggen.
 
 Triptop wil een soortgelijke applicatie ontwikkelen, maar dan gericht op de Nederlandse markt. De userinterface zou veel weg mogen hebben van Ellipsis Travel, maar dan met een Nederlandse touch. Alhoewel het maken van de webapplicatie zelf, in bijzonder het front-end voor deze opdracht buiten scope is geeft de volgende UI-schets een idee van de mogelijkheden:
 
@@ -21,12 +21,12 @@ Triptop wil een soortgelijke applicatie ontwikkelen, maar dan gericht op de Nede
 Een reis bestaat uit verschillende bouwstenen die aan elkaar gekoppeld kunnen worden en die samen een trip vormen waarbij de route langs alle bouwstenen bepaald moet kunnen worden. 
 
 Mogelijke bouwstenen zijn 
-- Overnachting
-- Vervoer tussen overnachtingen
-- Heen en terugreis
-- Autohuur
-- Excursies / activiteiten
-- Eten en drinken
+- Overnachting (bijv. Booking.com, Airbnb, eigen beheer)
+- Vervoer tussen overnachtingen (bijv. treinen via NS of Deutsche Bahn, vliegtuig via KLM)
+- Heen en terugreis (eigen vervoer, KLM shuttle, trein)
+- Autohuur (bijv. huurauto via Sixt, Hertz)
+- Excursies / activiteiten (bijv. via GetYourGuide, Tripadvisor)
+- Eten en drinken (bijv. via Takeaway, Eet.nu)
 
 De bouwstenen kunnen verschillende toestanden hebben: 
 - Gepland
