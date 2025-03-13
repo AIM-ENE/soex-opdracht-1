@@ -53,7 +53,7 @@ Als gebruiker wil ik de bouwstenen van mijn reis flexibel kunnen uitbreiden met 
 
 ### 3.4 Domain Model
 
-![Domain Model](https://www.plantuml.com/plantuml/png/FOqn3i8m301tNW43Os9WP2eI7HZA7qnYDP4IEt8SmVEX2zFfTCDDtL1jrB8xP0vbH1fQzicizIk0ujklsT9uZKuQX8tOV90AjyVYvkSCNUZZf4N5aCoTeM9c-7lCk2hMIWntsTBnSbeaKl5jMqx4ySSl)
+![Domain Model](../opdracht-diagrammen/Domain%20Model.png)
 
 ## 4. Quality Attributes
 
