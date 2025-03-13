@@ -3,7 +3,22 @@ Casusbeschrijving voor SOEX: Solution Exploration
 
 ## Vakantieplan app: Triptop
 
-Een applicatie waarmee een vakantietrip gepland kan worden. Een vakantietrip bestaat uit verschillende bouwstenen die aan elkaar gekoppeld kunnen worden en die samen een trip vormen waarbij de route langs alle bouwstenen bepaald moet kunnen worden. 
+Ontwerp een online applicatie waarmee een vakantietrip gepland kan worden, een site waarop je zelf alles bij elkaar klikt. Waar je nu als reiziger naar een (virtueel) reisbureau gaat die alle opties/mogelijkheden voor je uitzoekt en op elkaar afstemt, verschuift die rol van reisagent nu naar de reiziger. De reisagent is daarmee tweedelijns support geworden die je zou kunnen raadplegen als je er zelf niet uitkomt of iemand waarmee je het uiteindelijke reisplan kunt bespreken i.v.m. risico's.
+
+Deze applicatie is geïnspireerd op [Ellipsis Travel](https://www.ellipsistravel.com/), een online reisplatform dat reizen op maat aanbiedt. Triptop is gecharmeerd van dit idee en werd enthousiast van de mogelijkheden die dit platform biedt:
+
+- Reizigers kunnen zelf hun reis samenstellen door verschillende bouwstenen te combineren.
+- Reizigers kunnen zelf hun reis boeken.
+- Reizigers kunnen zelf hun reis annuleren.
+- Reizigers kunnen zelf hun reis aanpassen.
+- Reizigers kunnen zelf hun reis betalen.
+- Reizigers kunnen hun reisstatus bewaren zonder dat ze een extra account hoeven aan te maken.
+
+Triptop wil een soortgelijke applicatie ontwikkelen, maar dan gericht op de Nederlandse markt. De userinterface zou veel weg mogen hebben van Ellipsis Travel, maar dan met een Nederlandse touch. Alhoewel het maken van de webapplicatie zelf, in bijzonder het front-end voor deze opdracht buiten scope is geeft de volgende UI-schets een idee van de mogelijkheden:
+
+![UI-schets](opdracht-diagrammen/example-ellipsistravel.png)
+
+Een reis bestaat uit verschillende bouwstenen die aan elkaar gekoppeld kunnen worden en die samen een trip vormen waarbij de route langs alle bouwstenen bepaald moet kunnen worden. 
 
 Mogelijke bouwstenen zijn 
 - Overnachting
@@ -20,7 +35,7 @@ De bouwstenen kunnen verschillende toestanden hebben:
 - Niet uitvoerbaar
 - Uitgevoerd
 
-Elke instantie van een bouwsteen kan een verschillende externe service nodig hebben. 
+Elke instantie van een bouwsteen kan verschillende externe services nodig hebben. 
 Voorbeeld:
 
 - Overnachtingen: de ene wordt via booking geregeld, de andere is in eigen beheer
@@ -28,11 +43,11 @@ Voorbeeld:
 
 ## Opdracht in hoofdlijnen
 
-1. Ontwerp maken waarbij gebruik gemaakt moet worden van C4.  
+1. Ontwerp maken waarbij gebruik gemaakt moet worden van C4. Je werkt een of meerdere ontwerpvragen uit die per drietal verschillend zijn waardoor verschillende groepjes verschillende aspecten van de applicatie moeten uitwerken.
 2. Design patterns bestuderen en toepassen. 
-3. PoCjes maken van communicatie met één, of twee externe services.
+3. PoC-jes (prototypes) maken van communicatie met één, of twee externe services.
 
-Essentieel in deze casus is dat je niet alleen bedenkt en visualiseert hoe de software eruit moet zien maar deze plaatjes ook voorziet van tekst waaruit keuzes blijken die je hebt gemaakt en het geheel (een software guidebook) voor een andere ontwikkelaar begrijpelijk is. Daarnaast werk je enkele keuzes uit in de vorm van werkende prototypes. 
+Essentieel in deze casus is dat je niet alleen bedenkt en visualiseert hoe de software eruit moet zien, maar deze plaatjes ook voorziet van tekst waaruit keuzes blijken die je hebt gemaakt en het geheel (een software guidebook) voor een andere ontwikkelaar begrijpelijk is. Daarnaast werk je enkele keuzes uit in de vorm van werkende prototypes. 
 
 ## Ontwerpvragen
 
