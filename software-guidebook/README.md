@@ -193,12 +193,12 @@ Voordat deze casusomschrijving tot stand kwam, heeft de opdrachtgever de volgend
 > [!TIP]
 > This section mentions the possible options as headers in the second, third, etc. column. The forces in the left column are criteria (requirements, quality attributes, other forces like costs, learning curve, cultural, political or ethical factors that we can use to make the decision.
 
-| Forces                                        |                             |                     |
-|-----------------------------------------------|-----------------------------|---------------------|
-|                                               |                             |                     |
-|                                               |                             |                     |
-|                                               |                             |                     |
-|                                               |                             |                     |
+| Forces                                        |  Aspect 1 <<decided>>      |  Aspect 2 <<discarded >>             |
+|-----------------------------------------------|----------------------------|--------------------------------------|
+| Force 1 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++ (incl. bron)          |
+| Force 2 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++  (incl. bron)         |
+| Force 3 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++  (incl. bron)         |
+| Force 4 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++  (incl. bron)         |
 
 
 #### Decision
@@ -231,12 +231,13 @@ Voordat deze casusomschrijving tot stand kwam, heeft de opdrachtgever de volgend
 > [!TIP]
 > This section mentions the possible options as headers in the second, third, etc. column. The forces in the left column are criteria (requirements, quality attributes, other forces like costs, learning curve, cultural, political or ethical factors that we can use to make the decision.
 
-| Forces                                        |                             |                     |
-|-----------------------------------------------|-----------------------------|---------------------|
-|                                               |                             |                     |
-|                                               |                             |                     |
-|                                               |                             |                     |
-|                                               |                             |                     |
+| Forces                                        |  Aspect 1 <<decided>>      |  Aspect 2 <<discarded >>             |
+|-----------------------------------------------|----------------------------|--------------------------------------|
+| Force 1 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++ (incl. bron)          |
+| Force 2 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++  (incl. bron)         |
+| Force 3 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++  (incl. bron)         |
+| Force 4 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++  (incl. bron)         |
+
 
 
 #### Decision
@@ -269,12 +270,13 @@ Voordat deze casusomschrijving tot stand kwam, heeft de opdrachtgever de volgend
 > [!TIP]
 > This section mentions the possible options as headers in the second, third, etc. column. The forces in the left column are criteria (requirements, quality attributes, other forces like costs, learning curve, cultural, political or ethical factors that we can use to make the decision.
 
-| Forces                                        |                             |                     |
-|-----------------------------------------------|-----------------------------|---------------------|
-|                                               |                             |                     |
-|                                               |                             |                     |
-|                                               |                             |                     |
-|                                               |                             |                     |
+| Forces                                        |  Aspect 1 <<decided>>      |  Aspect 2 <<discarded >>             |
+|-----------------------------------------------|----------------------------|--------------------------------------|
+| Force 1 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++ (incl. bron)          |
+| Force 2 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++  (incl. bron)         |
+| Force 3 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++  (incl. bron)         |
+| Force 4 (ASR of aanvullende force)            |   --/-/?/+/++ (incl. bron) |    --/-/?/+/++  (incl. bron)         |
+
 
 
 #### Decision
