@@ -81,6 +81,10 @@ Wanneer twee gebruikers een reis bewerken, dan moet de applicatie ervoor zorgen 
 
 Een reis met alle bijbehorende bouwstenen mag alleen bekeken en aangepast worden door de klanten die aan de reis zijn gekoppeld en door de medewerker van Triptop die aan de reis is gekoppeld. 
 
+## Interaction Capability  – Operability
+
+Wijzigingen in de reis moeten direct bij de andere klant zichtbaar zijn zonder dat de pagina opnieuw geladen hoeft te worden.
+
 
 ## 5. Constraints
 
@@ -91,14 +95,17 @@ Een reis met alle bijbehorende bouwstenen mag alleen bekeken en aangepast worden
 
 ## Domain Driven Design
 
-De applicatie moet gebruikt de tactical patterns uit DDD waaronder Value Objects, Entities, Aggregates en Repositories.
+De applicatie moet gebruikt de tactical patterns uit DDD waaronder Value Objects, Entities, Aggregates en Repositories. Alle concurency-problemen die optreden bij het gelijktijdig bewerken van een reis lossen we op met het gebruik van aggregates en optimistic locking.
 
 ## Domain-Expressive Communication
 
 Berichten tussen onderdelen van de applicatie moeten zoveel mogelijk concepten en begrippen uit het domein gebruiken.
 
 > [!IMPORTANT]
-> Voeg toe: de ontwerpprincipes die je hebt onderzocht. 
+> Voeg toe: de ontwerpprincipes die je hebt onderzocht.
+> 
+> Voeg ook toe of alle principes toepasbaar zijn, of dat we principes moeten afwegen tegen elkaar, of tegen quality attributes.
+
 
 
 ## 7. Software Architecture
