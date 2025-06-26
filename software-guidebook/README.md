@@ -65,25 +65,31 @@ https://www.iso25000.com/index.php/en/iso-25000-standards/iso-25010
 
 Voordat deze casusomschrijving tot stand kwam, heeft de opdrachtgever de volgende ISO 25010 kwaliteitsattributen benoemd als belangrijk:
 
-## Maintainability -> Modularity 
+## Maintainability --> Modularity 
 
 De applicatie bestaat zoveel mogelijk uit aparte componenten die onafhankelijk van elkaar kunnen worden ontwikkeld en getest. De domeinlogica moet in ieder geval onafhankelijk zijn van alle andere onderdelen.
 
-## Maintainability - Modifiability 
+## Maintainability --> Modifiability 
 
 Er moeten nieuwe typen bouwstenen kunnen worden toegevoegd zonder dat de bestaande code aangepast hoeft te worden. 
 
-## Functional Suitability – Functional Correctness
+## Functional Suitability --> Functional Correctness & Appropriateness
 
 Wanneer twee gebruikers een reis bewerken, dan moet de applicatie ervoor zorgen dat de reis consistent blijft en dat de wijzigingen van de ene gebruiker zo min mogelijk ten kosten gaan van de wijzigingen van de andere gebruiker.
 
-## Security - Confidentiality 
+## Security --> Confidentiality 
 
 Een reis met alle bijbehorende bouwstenen mag alleen bekeken en aangepast worden door de klanten die aan de reis zijn gekoppeld en door de medewerker van Triptop die aan de reis is gekoppeld. 
 
-## Interaction Capability  – Operability
+## Flexibility --> Scalability & Replacibility
+
+Het authenticatie/authorisatie-component en het websockets-component van de triptop applicatie moeten zo los mogelijk van de triptop applicatie staan. Er zijn plannen om deze componenten ook te gebruiken voor andere applicaties waardoor ze los van de Triptop-applicatie geschaald moeten worden. Daarnaast moet het mogelijk zijn om deze componenten te vervangen zonder bestaande code aan te passen.
+
+## Interaction Capability  --> Operability
 
 Wijzigingen in de reis moeten direct bij de andere klant zichtbaar zijn zonder dat de pagina opnieuw geladen hoeft te worden.
+
+
 
 
 ## 5. Constraints
