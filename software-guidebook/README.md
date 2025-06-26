@@ -5,7 +5,7 @@ Dit software guidebook geeft een overzicht van de Triptop-applicatie. Het bevat 
 1. De vereisten, beperkingen en principes. 
 1. De software-architectuur, met inbegrip van de technologiekeuzes op hoog niveau en de structuur van de software. 
 1. De ontwerp- en codebeslissingen die zijn genomen om de software te realiseren.
-1. De architectuur van de infrastructuur en hoe de software kan worden geinstalleerd. 
+1. De architectuur van de infrastructuur.
 
 ## 2. Context
 
@@ -43,16 +43,21 @@ Als gebruiker wil ik mijn reisstatus kunnen bewaren zonder dat ik een extra acco
 
 Als gebruiker wil ik de bouwstenen van mijn reis flexibel kunnen uitbreiden met een zelf te managen stap (bijv. met providers die niet standaard worden aangeboden zoals een andere reisorganisatie, hotelketen etc.) zodat ik mijn reis helemaal kan aanpassen aan mijn wensen.
 
-### 3.2 Domain Story Reis Boeken (AS IS)
+### 3.2 Domeininformatie 
+
+#### 3.2.1 Story Reis Boeken (AS IS)
 
 ![Domain Story Reis Boeken AS IS](../opdracht-diagrammen/reis-boeken-asis-coursegrained_2024-06-11.egn.svg)
 
-### 3.3 Domain Story Reis Boeken (TO BE)
+#### 3.2.2 Domain Story Reis Boeken (TO BE)
 
 ![Domain Story Reis Boeken TO BE](../opdracht-diagrammen/reis-boeken-tobe-coursegrained_2024-06-11.egn.svg)
 
-### 3.4 Domain Model
+#### 3.2.3 Domain Model
 
+NOTE. DIT VERANDEREN DOOR DE BESCHRIJVING IN DE ODPRACHT.
+
+NOTE DIT PLAATJE ERUIT EN PLAATJE VAN DE STUDENTEN ERIN
 ![Domain Model](../opdracht-diagrammen/Domain%20Model.png)
 
 ## 4. Quality Attributes
