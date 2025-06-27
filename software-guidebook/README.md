@@ -101,6 +101,8 @@ Het authenticatie/authorisatie-component en het websockets-component van de trip
 
 ## 5. Constraints
 
+We willen in eerste instantie zo min mogelijk afhankelijkheden zijn van libraries en frameworks. We willen ervaren of we tegen belangrijke obstakels lopen. Daarom moet de applicatie voorlopig volledig in DenoJS worden gebouwd. Er kan wel gebruikt worden gemaakt van de DenoJS standaard libraries (ook als deze nog niet stable zijn).
+
 > [!IMPORTANT]
 > Beschrijf zelf de beperkingen die op voorhand bekend zijn die invloed hebben op keuzes die wel of niet gemaakt kunnen of mogen worden.
 
@@ -113,6 +115,10 @@ De applicatie moet gebruikt de tactical patterns uit DDD waaronder Value Objects
 ## Domain-Expressive Communication
 
 Berichten tussen onderdelen van de applicatie moeten zoveel mogelijk concepten en begrippen uit het domein gebruiken.
+
+## UI als pure functie van de state
+
+De gebruikersinterface wordt opgebouwd als een directe functie van de huidige UI-state. De opbouw van de trip-UI (bijvoorbeeld de lijst van reis- en verblijfcomponenten) moet volledig worden aangestuurd door een JavaScript-object dat de trip-state bevat. 
 
 > [!IMPORTANT]
 > Voeg toe: de ontwerpprincipes die je hebt onderzocht.
