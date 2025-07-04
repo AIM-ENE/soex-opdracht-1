@@ -47,7 +47,7 @@ Zoals te zien gaat alle communicatie over de reis nu via de app en er is geen ex
 
 Ook is te zien dat een reis uit flexibele bouwstenen gaat bestaan.
 
-![reis boeken to be](../diagrammen/reis-boeken-to_be.egn.svg)
+![reis boeken to be](../diagrammen/reis_boeken_to_be.egn.svg)
 
 Bij activities 1 en 2 is er nog geen Medewerker van het reisbureau betrokken. Hierdoor kunnen reizigers vrijblijvend ideeën verzamelen over een mogelijke reis, zonder dat er een medewerker naar hoeft te kijken. 
 
