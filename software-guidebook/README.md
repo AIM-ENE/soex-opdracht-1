@@ -59,6 +59,7 @@ Met activities 6 en 7 geeft een Reiziger commitment met betalingsverplichting en
 
 In de toekomst is het wenselijk dat Reizigers bouwstenen van de reis, of zelfs de hele reis, ook kunnen boeken zonder tussenkomst van de medewerker van het reisbureau. Hoe dit er precies uit zou moeten zien, wordt later pas bepaald.
 
+Activity 8 laat zien dat een Reiziger nu zelf een pdf van de reis kan maken als dat gewenst is.
 
 #### 3.1.3 Begrippenlijst
 
