@@ -21,6 +21,21 @@ Toelichting op de context van de software inclusief System Context Diagram:
 
 Triptop is een applicatie waarmee reizigers en medewerkers van een reisbureau gezamenlijk een reis kunnen samenstellen en beheren. Een reis bestaat uit een aantal dagen en op elke dag kan ingevuld worden aan de hand van verschillende soorten bouwstenen (bijvoorbeeld vervoer, verblijf en activiteiten). De applicatie helpt assisteert bij het komen tot een haalbare reis die zoveel mogelijk voldoet aan de wensen van de reiziger.
 
+### 3.1 Domeininformatie
+
+#### 3.1.1 Reis boeken as is
+
+Hieronder is het proces van het uitzoeken van een reis tot aan het boeken weergegeven zoals dit op dit moment gaat.
+
+Omdat we ons in deze fase richten op het samenstellen van de reis, is het daadwerkelijk betalen en uitvoeren van de reis niet opgenomen.
+
+![reis boeken as is](../diagrammen/reis_boeken_as_is.egn.svg)
+
+Zoals te zien 
+
+#### 3.1.2 Reis boeken to be
+
+![reis boeken to be](../diagrammen/reis-boeken-to_be.egn.svg)
 
 ### 3.1 User Stories
 
@@ -44,22 +59,15 @@ Als gebruiker wil ik mijn reisstatus kunnen bewaren zonder dat ik een extra acco
 
 Als gebruiker wil ik de bouwstenen van mijn reis flexibel kunnen uitbreiden met een zelf te managen stap (bijv. met providers die niet standaard worden aangeboden zoals een andere reisorganisatie, hotelketen etc.) zodat ik mijn reis helemaal kan aanpassen aan mijn wensen.
 
-### 3.2 Domeininformatie 
 
-#### 3.2.1 Story Reis Boeken (AS IS)
 
-![Domain Story Reis Boeken AS IS](../opdracht-diagrammen/reis-boeken-asis-coursegrained_2024-06-11.egn.svg)
-
-#### 3.2.2 Domain Story Reis Boeken (TO BE)
-
-![Domain Story Reis Boeken TO BE](../opdracht-diagrammen/reis-boeken-tobe-coursegrained_2024-06-11.egn.svg)
 
 #### 3.2.3 Domain Model
 
 NOTE. DIT VERANDEREN DOOR DE BESCHRIJVING IN DE ODPRACHT.
 
 NOTE DIT PLAATJE ERUIT EN PLAATJE VAN DE STUDENTEN ERIN
-![Domain Model](../opdracht-diagrammen/Domain%20Model.png)
+![Domain Model](../diagrammen/Domain%20Model.png)
 
 ## 4. Quality Attributes
 
