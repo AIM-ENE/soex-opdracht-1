@@ -31,36 +31,36 @@ Omdat we ons in deze fase richten op het samenstellen van de reis, is het daadwe
 
 ![reis boeken as is](../diagrammen/reis_boeken_as_is.egn.svg)
 
-Zoals te zien 
+Activities 1 en 2 zijn vinden volledig plaats op de Triptop website en het invullen van een reisaanvraag gaat via een formuliertje op deze site
+
+De andere activities (behalve 7) gaan allemaal via de e-mail en activities 4 en 5 worden normaal gesproken een aantal keren uitgevoerd. Het gebruik van e-mail is daarom ook onhandig voor zowel Reiziger als Medewerker
+
+Activity 6 is het moment waarop een Reiziger zich commiteert aan de reis en een betalingsverplichting aangaat.
+
+Activity 7 is toegevoegd ter illustratie en verdere interactie met het Interne Systeem zijn voor nu niet relevant. 
 
 #### 3.1.2 Reis boeken to be
 
+Hieronder is het proces van het uitzoeken van een reis tot aan het boeken weergegeven zoals dit zou moeten gaan met de Triptop App. 
+
+Zoals te zien gaat alle communicatie over de reis nu via de app en er is geen extern kanaal, zoals e-mail, meer nodig. 
+
+Ook is te zien dat een reis uit flexibele bouwstenen gaat bestaan.
+
 ![reis boeken to be](../diagrammen/reis-boeken-to_be.egn.svg)
 
-### 3.1 User Stories
+Bij activities 1 en 2 is er nog geen Medewerker van het reisbureau betrokken. Hierdoor kunnen reizigers vrijblijvend ideeën verzamelen over een mogelijke reis, zonder dat er een medewerker naar hoeft te kijken. 
 
-#### 3.1.1 User Story 1: Reis plannen
+In activities 3 en 4 geeft een Reiziger aan serieus geïnteresseerd te zijn in een reis en wordt er een Medewerker aan de reis gekoppeld. 
 
-Als gebruiker wil ik een zelfstandig op basis van diverse variabelen (bouwstenen) een reis kunnen plannen op basis van mijn reisvoorkeuren (wel/niet duurzaam reizen, budget/prijsklasse, 's nachts reizen of overdag etc.) zodat ik op vakantie kan gaan zonder dat hiervoor een reisbureau benodigd is.
+Activity 5 geeft aan dat Reizigers en Medewerkers tegelijkertijd de bouwstenen van een reis kunnen bewerken. Deze activity herhaalt zich waarschijnlijk een aantal keer. Hoe dit proces er precies uit ziet en welke gebruiker welke bewerkingsmogelijkheden heeft moet nog verder worden uitgezocht. 
 
-#### 3.1.2 User Story 2: Reis boeken
+Met activities 6 en 7 geeft een Reiziger commitment met betalingsverplichting en wordt dit geregistreerd. Waarschijnlijk zijn hier nog andere systemen bij betrokken, maar die zijn voor nu niet relevant.
 
-Als gebruiker wil ik een geplande reis als geheel of per variabele (bouwsteen) boeken en betalen zodat ik op vakantie kan gaan zonder dat hiervoor een reisbureau benodigd is.
-
-#### 3.1.3 User Story 3: Reis cancelen
-
-Als gebruiker wil ik een geboekte reis, of delen daarvan, kunnen annuleren zodat ik mijn geld terug kan krijgen zonder inmenging van een intermediair zoals een reisbureau.
-
-#### 3.1.4 User Story 4: Reisstatus bewaren 
-
-Als gebruiker wil ik mijn reisstatus kunnen bewaren zonder dat ik een extra account hoef aan te maken zodat ik mijn reis kan volgen zonder dat ik daarvoor extra handelingen moet verrichten.
-
-#### 3.1.5 User Story 5: Bouwstenen flexibel uitbreiden
-
-Als gebruiker wil ik de bouwstenen van mijn reis flexibel kunnen uitbreiden met een zelf te managen stap (bijv. met providers die niet standaard worden aangeboden zoals een andere reisorganisatie, hotelketen etc.) zodat ik mijn reis helemaal kan aanpassen aan mijn wensen.
+In de toekomst is het wenselijk dat Reizigers bouwstenen van de reis, of zelfs de hele reis, ook kunnen boeken zonder tussenkomst van de medewerker van het reisbureau. Hoe dit er precies uit zou moeten zien, wordt later pas bepaald.
 
 
-
+#### 3.1.3 Begrippenlijst
 
 #### 3.2.3 Domain Model
 
